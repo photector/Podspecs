@@ -1,0 +1,2 @@
+# podspecs
+Photector CocoaPod specs
