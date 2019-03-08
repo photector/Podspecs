@@ -1,2 +1,3 @@
-# podspecs
-Photector CocoaPod specs
+# Podspecs
+
+A repository for Photector CocoaPod specs
