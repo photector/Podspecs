@@ -35,6 +35,8 @@ TODO: Add long description of the pod here.
   s.dependency 'Zip', '~> 1.1'
   s.dependency 'AWSS3', '~> 2.6'
 
+  s.vendored_frameworks = 'Photector.framework'
+
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
