@@ -32,6 +32,5 @@ TODO: Add long description of the pod here.
   
   s.dependency 'Zip', '~> 1.1'
   s.dependency 'AWSS3', '~> 2.6'
-
-  # s.vendored_frameworks = 'Photector.framework'
+	s.vendored_frameworks = 'Photector.framework'
 end
